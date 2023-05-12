@@ -1,6 +1,6 @@
 
 // printPyramid(5);
-
+// add for failed commit do to git hub disconnection to replit
 
 function determineHeightAndThenDrawPyramid() {
    // Retrieve the height value from the text box
